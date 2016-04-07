@@ -1,12 +1,11 @@
+## This is the toplevel documentation file.
 
-this is the toplevel DOC documentation file.
+# Table of Contents:
 
-sub-levels include:
+[build](./build.md) - download source code, pre-building, compiling bitstream, loading into FPGA, etc
 
-[build](./build.md)
+[hardware](./hardware.md) - the interconnectivity of major components
 
-[hardware](./hardware.md)
+[structural](./structural.md) - fpga firmware diagrams and descriptions
 
-[structural](./structural.md)
-
-the end.
+The End.
