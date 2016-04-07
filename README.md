@@ -1,7 +1,7 @@
 # test (the first repository)
 learn how git works
 
-[Link](./doc/_index.md) to main DOC documentation
+[Link](./doc/index.md) to main DOC documentation
 
 -- just making a simple edit
 
